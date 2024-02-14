@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://manher.tistory.com/?page=1" target="_blank"><img src="https://img.shields.io/badge/Tistory-C63232?style=flat&logo=#4285F4&logoColor=000000"/></a>
+<a href="https://manher.tistory.com/?page=1" target="_blank"><img src="https://img.shields.io/badge/Tistory-C63232?style=for-the-badge&logo=#4285F4&logoColor=000000"/></a>
 <!--
 **i3amero/i3amero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
