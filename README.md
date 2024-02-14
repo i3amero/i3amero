@@ -8,9 +8,9 @@
 ### 🎮
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-828BA4?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ren'Py-BB0000?style=for-the-badge&logo=Ren'py&logoColor=FF7F7F"/></a>
+### 🔨
 <!--
 **i3amero/i3amero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 🔨
 
 Here are some ideas to get you started:
 
