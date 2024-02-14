@@ -2,11 +2,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&show_icons=true&theme=radical)
 <br>
 <a href="https://manher.tistory.com/?page=1" target="_blank"><img src="https://img.shields.io/badge/Tistory-C63232?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
-<a href="https://www.instagram.com/wise_brilliant_" target="_blank"><img src="https://img.shields.io/badge/Instagram-828BA4?style=for-the-badge&logo=Unity&logoColor=000000"/></a>
+<a href="https://www.instagram.com/wise_brilliant_" target="_blank"><img src="https://img.shields.io/badge/Instagram-828BA4?style=for-the-badge&logo=Instagram&logoColor=000000"/></a>
 <br>
 
 ### 🔨
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-828BA4?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 <!--
 **i3amero/i3amero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
