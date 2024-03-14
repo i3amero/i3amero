@@ -10,6 +10,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ren'Py-BB0000?style=for-the-badge&logo=Ren'py&logoColor=FF7F7F"/></a>
 ### 🔨
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-5DA29C?style=for-the-badge&logo=cplusplus&logoColor=00599C"/></a>
+### 💬
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-5DA29C?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <!--
 **i3amero/i3amero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
