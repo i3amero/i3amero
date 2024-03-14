@@ -7,7 +7,7 @@
 <br>
 ### 🎮
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-828BA4?style=for-the-badge&logo=Unity&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Ren'Py-BB0000?style=for-the-badge&logo=Ren'py&logoColor=FF7F7F"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Ren'Py-BB0000?style=for-the-badge&logo=Ren'py&logoColor=000000"/></a>
 ### 🔨
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-5DA29C?style=for-the-badge&logo=cplusplus&logoColor=00599C"/></a>
 ### 💬
