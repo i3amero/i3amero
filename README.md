@@ -17,7 +17,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-F7A81B?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a>
 <br>
-<br>Konkuk University CSE 22nd<br>
+<br>Konkuk University CSE 20th<br>
 EDGE, KKU Game Develop Club 9th
 
 <!--
