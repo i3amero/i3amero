@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmswkd)](https://solved.ac/sksmswkd/)
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i3amero&layout=compact)
