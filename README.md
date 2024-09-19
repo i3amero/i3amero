@@ -3,7 +3,7 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i3amero&layout=compact)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i3amero&langs_count=10&layout=compact&theme=dark)](https://github.com/i3amero)﻿
 ### 🏠
 <a href="https://manher.tistory.com/?page=1" target="_blank"><img src="https://img.shields.io/badge/Tistory-C63232?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 <a href="https://www.instagram.com/wise_brilliant_" target="_blank"><img src="https://img.shields.io/badge/Instagram-EC6F67?style=for-the-badge&logo=Instagram&logoColor=000000"/></a>
