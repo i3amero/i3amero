@@ -11,6 +11,7 @@
 ### 🎮
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-828BA4?style=for-the-badge&logo=Unity&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ren'Py-BB0000?style=for-the-badge&logo=Ren'py&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=478CBF"/></a>
 ### 🔨
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-5DA29C?style=for-the-badge&logo=cplusplus&logoColor=00599C"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=Blender&logoColor=E87D0D"/></a>
