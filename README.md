@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=i3amero&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmswkd)](https://solved.ac/sksmswkd/)
 <br>
-[![Anurag's![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&count_private=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&count_private=true)
 <br>
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i3amero&langs_count=10&layout=compact&theme=dark)](https://github.com/i3amero)﻿
 ### 🏠
