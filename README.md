@@ -3,6 +3,8 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=i3amero&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i3amero&langs_count=10&layout=compact)](https://github.com/i3amero)﻿
 ### 🏠
 <a href="https://manher.tistory.com/?page=1" target="_blank"><img src="https://img.shields.io/badge/Tistory-C63232?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
