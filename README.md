@@ -27,4 +27,3 @@ EDGE, KKU Game Develop Club 9th<br>
 2025 EDGE Vice President<br>
 <a href="https://joyous-bathroom-ec6.notion.site/9fccc3ee849745b8a75d18f3ec88a513">Portfolio</a>
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi3amero&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
