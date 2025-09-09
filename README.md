@@ -25,5 +25,5 @@
 <br>Konkuk University CSE 20th<br>
 EDGE, KKU Game Develop Club 9th<br>
 2025 EDGE Vice President<br>
-<a href="https://joyous-bathroom-ec6.notion.site/9fccc3ee849745b8a75d18f3ec88a513">Portfolio</a>
+<a href="https://joyous-bathroom-ec6.notion.site/268a681a806a8017bb8ff30f114bbaa2?pvs=74">Portfolio</a>
 <br>
