@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=i3amero&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmswkd)](https://solved.ac/sksmswkd/)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3amero&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=i3amero&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i3amero&langs_count=10&layout=compact)](https://github.com/i3amero)﻿
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i3amero&theme=react&line_height=40&hide=css"/> </a>
+<br>
 ### 🏠
 <a href="https://manher.tistory.com/?page=1" target="_blank"><img src="https://img.shields.io/badge/Tistory-C63232?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 <a href="https://www.instagram.com/hyeondun_" target="_blank"><img src="https://img.shields.io/badge/Instagram-EC6F67?style=for-the-badge&logo=Instagram&logoColor=000000"/></a>
